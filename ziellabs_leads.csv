@@ -1,0 +1,31 @@
+company,website,linkedin,service_category,emails,email_count,contact_page,date_collected,status
+Heap,https://www.h.ai,,analytics and conversion tracking,,0,https://www.h.ai/about,2025-03-30 11:07,No emails found
+Mixpanel,https://mixpanel.ai,,analytics and conversion tracking,,0,https://mixpanel.ai/contact-us,2025-03-30 11:07,No emails found
+Google Analytics,https://www.ga.org,,analytics and conversion tracking,fern@medg.lcs.mit.edu,1,https://www.ga.org/contact,2025-03-30 11:07,Success
+Amplitude,https://www.a.co,,analytics and conversion tracking,,0,,2025-03-30 11:08,No emails found
+Segment,https://segment.com,,analytics and conversion tracking,"accommodation@twilio.com, accommodations@twilio.com",2,https://segment.com/contact,2025-03-30 11:08,Success
+Matomo,https://www.matomo.org,,analytics and conversion tracking,,0,https://www.matomo.org/contact,2025-03-30 11:08,No emails found
+Adobe Analytics,https://aa.org,,analytics and conversion tracking,,0,https://aa.org/contact,2025-03-30 11:08,No emails found
+Pendo,https://p.uk,,analytics and conversion tracking,,0,https://p.uk/contact,2025-03-30 11:08,No emails found
+Tableau,https://tableau.co,,analytics and conversion tracking,,0,https://tableau.co/contact,2025-03-30 11:08,No emails found
+Terminus,https://terminus.com,,account based marketing,,0,https://terminus.com/contact,2025-03-30 11:08,No emails found
+Looker,https://www.looker.co,,analytics and conversion tracking,,0,https://www.looker.co/contact,2025-03-30 11:09,No emails found
+6sense,https://www.6sense.com,,account based marketing,,0,https://www.6sense.com/contact,2025-03-30 11:09,No emails found
+Demandbase,https://demandbase.io,,account based marketing,,0,,2025-03-30 11:09,No emails found
+Triblio,https://www.t.uk,,account based marketing,,0,https://www.t.uk/contact,2025-03-30 11:09,No emails found
+Engagio,https://e.org,,account based marketing,"customer.service@e.org, tenancy@e.org",2,https://e.org/contact-us,2025-03-30 11:09,Success
+RollWorks,https://www.r.org,,account based marketing,,0,https://www.r.org/contact,2025-03-30 11:09,No emails found
+Kwanzoo,https://kwanzoo.com,,account based marketing,"555-555-5555mymail@mailservice.com, projects@shapestudio.co.uk, sales@kwanzoo.com",3,https://kwanzoo.com/contact,2025-03-30 11:10,Success
+Metadata.io,https://m.io,,account based marketing,,0,https://m.io/contact,2025-03-30 11:10,No emails found
+Madison Logic,https://www.ml.org,,account based marketing,"in@ml.org, ll@ml.org",2,,2025-03-30 11:10,Success
+HubSpot,https://hubspot.com,,sales and marketing automation,,0,https://hubspot.com/contact,2025-03-30 11:11,No emails found
+Marketo,https://www.m.org,,sales and marketing automation,,0,,2025-03-30 11:11,No emails found
+Uberflip,https://u.uk,,account based marketing,,0,https://u.uk/contact,2025-03-30 11:11,No emails found
+Pardot,https://pardot.ai,,sales and marketing automation,,0,https://pardot.ai/contact-us,2025-03-30 11:12,No emails found
+Salesforce Marketing Cloud,https://smc.us,,sales and marketing automation,,0,https://smc.us/contact-us,2025-03-30 11:12,No emails found
+ActiveCampaign,https://www.activecampaign.com,,sales and marketing automation,,0,https://www.activecampaign.com/connect,2025-03-30 11:12,No emails found
+Autopilot,https://www.autopilot.com,,sales and marketing automation,hxwsales@teamhorner.com,1,https://www.autopilot.com/contact,2025-03-30 11:13,Success
+Customer.io,https://www.c.ai,,sales and marketing automation,press@character.ai,1,,2025-03-30 11:13,Success
+Keap,https://www.keap.uk,,sales and marketing automation,,0,https://www.keap.uk/contact,2025-03-30 11:13,No emails found
+Drip,https://drip.com,,sales and marketing automation,"spam@drip.com, privacy@drip.com",2,https://drip.com/contact,2025-03-30 11:13,Success
+Omnisend,https://o.ai,,sales and marketing automation,,0,,2025-03-30 11:14,No emails found
