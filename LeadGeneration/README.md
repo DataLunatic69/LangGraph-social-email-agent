@@ -39,3 +39,24 @@ venv\Scripts\activate     # Windows
 ```bash
    pip install -r requirements.txt
 ```
+
+4. Configuration:
+```bash
+## Google Cloud Setup:
+
+Create a project in Google Cloud Console
+
+Enable Gmail API
+
+Create OAuth 2.0 credentials (Desktop App type)
+
+Download credentials.json to the project root
+
+## CSV Files:
+
+Place your lead files (ziellabs_leads.csv or global_marketing_leads.csv) in the parent directory
+
+## Supported formats:
+company,website,emails,status,...  # ziellabs format
+email,name,company,...             # global marketing format
+```
