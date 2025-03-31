@@ -102,8 +102,9 @@ The system will:
         └── .gitignore
 
 ```
-![image](LeadGeneration/worflow.png)
+## Workflow Diagram
 
+![Email Automation Workflow](LeadGeneration/workflow.png)
 
 
 
