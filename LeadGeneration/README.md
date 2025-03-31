@@ -26,4 +26,12 @@ An intelligent email management system that:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/email-automation.git
-   cd email-automation
+   cd email-automation```
+
+2. Set up virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+```
