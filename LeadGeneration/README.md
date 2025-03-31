@@ -104,7 +104,7 @@ The system will:
 ```
 ## Workflow Diagram
 
-![Email Automation Workflow](LeadGeneration/workflow.png)
+![Email Automation Workflow](workflow.png)
 
 
 
