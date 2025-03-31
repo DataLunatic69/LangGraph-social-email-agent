@@ -102,6 +102,7 @@ The system will:
         └── .gitignore
 
 ```
+![image](workflow.png)
 
 
 
