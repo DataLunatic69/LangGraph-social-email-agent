@@ -102,7 +102,7 @@ The system will:
         └── .gitignore
 
 ```
-![image](workflow.png)
+![image](LeadGeneration/worflow.png)
 
 
 
